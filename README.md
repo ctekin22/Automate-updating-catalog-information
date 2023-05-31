@@ -15,3 +15,7 @@ Write a script that summarizes and processes sales data into different categorie
 Generate a PDF using Python
 Automatically send a PDF by email
 Write a script to check the health status of the system
+
+The subdirectory images contain images of various fruits, while the descriptions subdirectory has text files containing the description of each fruit. 
+
+You will write a Python script named changeImage.py to process the supplier images
